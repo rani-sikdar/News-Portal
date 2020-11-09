@@ -1,2 +1,4 @@
-# News-Portal
-Keep yourself updated with daily top news in a click.
+# News-Portal 
+Daily tops news website using HTML,JavaScript and AJAX.
+Keep yourself updated with daily top news.
+
